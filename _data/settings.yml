@@ -1,0 +1,167 @@
+#-------------------------------
+# Site Settings
+title: Alexander Titus
+logo: # You can add own logo. For example '/images/logo.png'.
+description: Alexander Titus is a technologist working at the intersection of artificial intelligence, machine learning, and biotechnology.
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    # - title: 'Podcast'
+    #  url: '/tags/?tag=episodes'
+    # - title: 'About'
+    #  url: '/about/'
+    # - title: 'Contact'
+    #  url: '/contact/'
+
+#-------------------------------
+# Author Settings
+author:
+  author__name: Alexander Titus
+  author__bio: I'm a technologist working at the intersection of artificial intelligence, machine learning, and biotechnology. I also spend a lot of time lost in through or lost in the woods. Often both.
+  author__avatar: '/images/Data-Titus.jpg'
+
+social:
+- {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/alexandertitus/"}
+- {icon: "ion-logo-twitter", link: "https://twitter.com/1AlexanderTitus"}
+- {icon: "ion-logo-facebook", link: "https://www.facebook.com/1alexandertitus"}
+- {icon: "ion-logo-instagram", link: "https://www.instagram.com/1alexandertitus"}
+- {icon: "ion-logo-github", link: "https://github.com/AlexanderTitus"}
+
+# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
+# Other icons can be found at https://ionicons.com/v4/
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  hero__title: I'm Titus.
+  hero__description: I'm a technologist focused on leveraging modern tools to benefit society. When I'm working, I'm thinking about AI, biotech, and a buch of other cool tech. When I'm playing, I'm often lost in thought or lost in the woods. Sometimes both.
+  hero__image: '/images/Dog-Titus.jpg'
+
+
+#-------------------------------
+# Newsletter
+mailchimp:  #enable To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+mailchimp__identifier: # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
+mailchimp__input__text: Your email address...
+mailchimp__button__text: Get updates
+
+
+#-------------------------------
+# Projects Settings
+projects__settings:
+  projects__title: Projects
+  projects__description: I get to work with a lot of wonderful people on really intersting stuff. Here is a sampling of a few.
+
+
+#-------------------------------
+# Testimonials Section
+testimonial__title: Experience
+testimonial__description:
+
+testimonial__items:
+  - name: "Google Research"
+    image: "/images/Google.png"
+    designation: "Product Strategy & Operations Lead"
+    link: "https://research.google/"
+    content : "Bringing the best of Research to the rest of Google's products"
+
+  - name: "Amazon Alexa"
+    image: "/images/Amazon.png"
+    designation: "Data Scientist"
+    link: "https://developer.amazon.com/en-US/alexa"
+    content : "Helping Alexa understand what you're asking for when you need help"
+
+  - name: "Tableau Software"
+    image: "/images/Tableau.png"
+    designation: "Product Consultant"
+    link: "https://www.tableau.com/"
+    content : "Bringing business to life with beautiful stories powered by data"
+
+  - name: "Department of Defense"
+    image: "/images/DoD.png"
+    designation: "Principal Director for Biotechnology"
+    link: "https://www.defense.gov/About/Biographies/Biography/Article/1845752/dr-alexander-titus/"
+    content : "Bringing the best of biotechnology to every aspect of the mission"
+
+  - name: "McKinsey & Company"
+    image: "/images/McKinsey.jpg"
+    designation: "Defense & Security Specialist"
+    link: "https://www.mckinsey.com/industries/public-and-social-sector/how-we-help-clients/defense-and-security"
+    content : "Helping our public servants build strategies that last"
+
+  - name: "In-Q-Tel"
+    image: "/images/IQT.jpg"
+    designation: "Data Scientist"
+    link: "https://www.iqt.org/labs/"
+    content : "Bringing the innovation of industry to the mission of government"
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Some published thoughts
+  blog__description: I write. I think about science, policy, interesting approaches to careers, and how it's best when these all come together.
+
+
+#-------------------------------
+# Gallery Footer Settings
+gallery:
+  gallery__images:
+    - alt: 'Wilderness'
+      url: '/images/VA-Canoeing.jpg'
+    - alt: 'Hobby'
+      url: '/images/Cancun-SCUBA.jpg'
+    - alt: 'Adventure'
+      url: '/images/Dalton-Hills.jpg'
+    - alt: 'Notes'
+      url: '/images/Grand-Canyon.jpg'
+
+
+#-------------------------------
+# Footer Navigation Settings
+footer_menu__settings:
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    #- title: 'Podcast'
+    #  url: '/tags/?tag=episodes'
+    #- url: '/about/'
+    #  title: 'About'
+    # - url: '/contact/'
+    #   title: 'Contact'
+    #- url: '/elements/'
+    #  title: 'Elements'
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: # Add your form_id
+  description: If you'd like to chat, shoot me a note. Or find me on <a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/1AlexanderTitus" target="_blank">Twitter</a>
+
+# NOTE
+# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus-identifier: alexandertitus-1 # Add your shortname for Disqus Comment. For example anvodstudio-demo
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-77527373-1 # Add your GA Tracking Id
