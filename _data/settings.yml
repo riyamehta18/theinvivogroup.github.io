@@ -76,7 +76,7 @@ testimonial__items:
     link: "https://research.google/"
     content : "Bringing the best of Research to the rest of Google's products"
 
-  - name: "Amazon Alexa"
+  - name: "Amazon Research"
     image: "/images/Amazon.png"
     designation: "Data Scientist"
     link: "https://developer.amazon.com/en-US/alexa"
