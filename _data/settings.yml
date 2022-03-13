@@ -76,10 +76,10 @@ testimonial__items:
     link: "https://research.google/"
     content : "Bringing the best of Research to the rest of Google's products"
 
-  - name: "Amazon Research"
+  - name: "Amazon Science"
     image: "/images/Amazon.png"
     designation: "Data Scientist"
-    link: "https://developer.amazon.com/en-US/alexa"
+    link: "https://www.amazon.science/"
     content : "Helping Alexa understand what you're asking for when you need help"
 
   - name: "Tableau Software"
