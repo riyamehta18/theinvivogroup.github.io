@@ -1,0 +1,35 @@
+---
+layout: default
+title: The Team
+description:
+---
+<div class="container">
+  <div class="page-head">
+    <h1 class="page-title">{% if page.title %}{{ page.title }}{% else %}{{ site.data.settings.team__settings.team__title }}{% endif %}</h1>
+    {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+    {% else site.data.settings.team__settings.team__description %}
+      <p class="page-description">{{ site.data.settings.team__settings.team__description }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div class="projects-page container animate">
+  <div class="row">
+    {% for team in site.teams reversed %}
+      <article class="project col col-4 col-d-6 col-t-12">
+        <div class="project__content">
+          <a href="{{ team.url }}" class="project__image">
+            <img class="lazy" data-src="{{ team.image }}" alt="{{ team.title }}">
+          </a>
+          <div class="project__info">
+            <h3 class="project__title"><a href="{{ team.url }}">{{ team.title }}</a></h3>
+            {% if team.subtitle %}
+            <div class="project__subtitle">{{ team.subtitle }}</div>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
