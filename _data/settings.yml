@@ -56,13 +56,17 @@ mailchimp__identifier: # Add your MailChimp form identifier. For example - frnla
 mailchimp__input__text: Your email address...
 mailchimp__button__text: Get updates
 
+#-------------------------------
+# Team Settings
+team__settings:
+  team__title: The Team
+  team__description: We're computer scientists, engineers, biologists, and policy wonks. We believe that science & technology need to be paired with a healthy appreciation for policy & security.<br><br>We specialize in building computational tools to explore the world and building methods to do so responsibly.
 
 #-------------------------------
 # Projects Settings
 projects__settings:
   projects__title: Projects
   projects__description: I get to work with a lot of wonderful people on really intersting stuff. Here is a sampling of a few.
-
 
 #-------------------------------
 # Testimonials Section
