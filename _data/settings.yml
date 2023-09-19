@@ -18,10 +18,10 @@ menu__settings:
       url: '/blog/'
     # - title: 'Podcast'
     #  url: '/tags/?tag=episodes'
-    - title: 'About'
-     url: '/about/'
-    - title: 'Contact'
-     url: '/contact/'
+    # - title: 'About'
+    #  url: '/about/'
+    # - title: 'Contact'
+    #  url: '/contact/'
 
 #-------------------------------
 # Author Settings
