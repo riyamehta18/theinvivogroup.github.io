@@ -17,7 +17,4 @@ I'm Titus.
 </div>
 
 > Life's about AI, biotech, and backcountry.
-
 I've had the privilege of working with some amazing people at some great institutions across industry, government, and academia.
-
-{% include section-testimonials.html %}
