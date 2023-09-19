@@ -45,7 +45,7 @@ social:
 # Hero Settings
 hero:
   hero__title: We're the In Vivo Group.
-  hero__description: We're computer scientists, engineers, biologists, and policy wonks. We believe that science & technology need to be paired with a healthy appreciation of policy & security. We specialize in building computational tools to explore the world and building methods to do so responsibly.
+  hero__description: We're computer scientists, engineers, biologists, and policy wonks. We believe that science & technology need to be paired with a healthy appreciation for policy & security.<br><br>We specialize in building computational tools to explore the world and building methods to do so responsibly.
   hero__image: '/images/ivg-logo-black.jpg'
 
 
