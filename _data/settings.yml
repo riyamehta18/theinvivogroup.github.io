@@ -1,6 +1,6 @@
 #-------------------------------
 # Site Settings
-title: Alexander Titus
+title: In Vivo Group
 logo: # You can add own logo. For example '/images/logo.png'.
 description: Alexander Titus is a technologist working at the intersection of artificial intelligence, machine learning, and biotechnology.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -18,10 +18,10 @@ menu__settings:
       url: '/blog/'
     # - title: 'Podcast'
     #  url: '/tags/?tag=episodes'
-    # - title: 'About'
-    #  url: '/about/'
-    # - title: 'Contact'
-    #  url: '/contact/'
+    - title: 'About'
+     url: '/about/'
+    - title: 'Contact'
+     url: '/contact/'
 
 #-------------------------------
 # Author Settings
@@ -44,9 +44,9 @@ social:
 #-------------------------------
 # Hero Settings
 hero:
-  hero__title: I'm Titus.
-  hero__description: I'm a technologist focused on leveraging modern tools to benefit society. When I'm working, I'm thinking about AI, biotech, and a buch of other cool tech. When I'm playing, I'm often lost in thought or lost in the woods. Sometimes both.
-  hero__image: '/images/Dog-Titus.jpg'
+  hero__title: We're the In Vivo Group.
+  hero__description: We're computer scientists, engineers, biologists, and policy wonks. We believe that science & technology need to be paired with a healthy appreciation of policy & security. We specialize in building computational tools to explore the world and building methods to do so responsibly.
+  hero__image: '/images/in-vivo-group.jpg'
 
 
 #-------------------------------
