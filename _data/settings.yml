@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Team'
+      url: '/team/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Blog'
