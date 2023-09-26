@@ -136,22 +136,21 @@ gallery:
 #-------------------------------
 # Footer Navigation Settings
 footer_menu__settings:
-  menu__settings:
-    menu__items:
-      - title: 'Home'
-        url: '/'
-      - title: 'Team'
-        url: '/team/'
-      - title: 'Projects'
-        url: '/projects/'
-      - title: 'Blog'
-        url: '/blog/'
-      # - title: 'Podcast'
-      #  url: '/tags/?tag=episodes'
-      # - title: 'About'
-      #  url: '/about/'
-      # - title: 'Contact'
-      #  url: '/contact/'
+  menu__items:
+    - title: 'Home'
+      url: '/'
+    - title: 'Team'
+      url: '/team/'
+    - title: 'Projects'
+      url: '/projects/'
+    - title: 'Blog'
+      url: '/blog/'
+    # - title: 'Podcast'
+    #  url: '/tags/?tag=episodes'
+    # - title: 'About'
+    #  url: '/about/'
+    # - title: 'Contact'
+    #  url: '/contact/'
 
 
 #-------------------------------
