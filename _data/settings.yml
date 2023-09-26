@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
 title: In Vivo Group
-logo: # You can add own logo. For example '/images/logo.png'.
-description: Alexander Titus is a technologist working at the intersection of artificial intelligence, machine learning, and biotechnology.
+logo: '/images/ivg-logo-black.jpg' # You can add own logo. For example '/images/logo.png'.
+description: The In Vivo Group specializes in research and development at the intersection of artificial intelligence, biotechnology, and security.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -29,7 +29,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Alexander Titus
-  author__bio: Titus is the Founder & CEO of the In Vivo Group. IVG focuses on research & development of emerging technologies at the intersection of artificial intelligence, biotechnology, and security.
+  author__bio: Titus is the Founder & CEO of the In Vivo Group. IVG specializes in the research and development of emerging technologies at the intersection of artificial intelligence, biotechnology, and security.
   author__avatar: '/images/titus.jpg'
 
 social:
@@ -67,7 +67,7 @@ team__settings:
 # Projects Settings
 projects__settings:
   projects__title: Projects
-  projects__description: I get to work with a lot of wonderful people on really intersting stuff. Here is a sampling of a few.
+  projects__description: I get to work with a lot of wonderful people on really interesting stuff. Here is a sampling of a few.
 
 #-------------------------------
 # Testimonials Section
