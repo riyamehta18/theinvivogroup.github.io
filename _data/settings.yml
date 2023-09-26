@@ -12,12 +12,12 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Team'
-      url: '/team/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
+    # - title: 'Team'
+    #   url: '/team/'
     # - title: 'Podcast'
     #  url: '/tags/?tag=episodes'
     # - title: 'About'
@@ -29,19 +29,18 @@ menu__settings:
 # Author Settings
 author:
   author__name: Alexander Titus
-  author__bio: I'm a technologist working at the intersection of artificial intelligence, machine learning, and biotechnology. I also spend a lot of time lost in through or lost in the woods. Often both.
-  author__avatar: '/images/Data-Titus.jpg'
+  author__bio: Titus is the Founder & CEO of the In Vivo Group. IVG focuses on research & development of emerging technologies at the intersection of artificial intelligence, biotechnology, and security.
+  author__avatar: '/images/titus.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/alexandertitus/"}
-- {icon: "ion-logo-twitter", link: "https://twitter.com/1AlexanderTitus"}
-- {icon: "ion-logo-facebook", link: "https://www.facebook.com/1alexandertitus"}
 - {icon: "ion-logo-instagram", link: "https://www.instagram.com/1alexandertitus"}
 - {icon: "ion-logo-github", link: "https://github.com/AlexanderTitus"}
+# - {icon: "ion-logo-twitter", link: "https://twitter.com/1AlexanderTitus"}
+# - {icon: "ion-logo-facebook", link: "https://www.facebook.com/1alexandertitus"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://ionicons.com/v4/
-
 
 #-------------------------------
 # Hero Settings
@@ -139,12 +138,12 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'Team'
-      url: '/team/'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Blog'
       url: '/blog/'
+    # - title: 'Team'
+    #   url: '/team/'      
     # - title: 'Podcast'
     #  url: '/tags/?tag=episodes'
     # - title: 'About'
