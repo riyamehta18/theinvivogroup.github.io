@@ -31,6 +31,9 @@ collections:
   teams:
     output: true
     permalink: /team/:slug
+  research:
+    output: true
+    permalink: /research/:slug
 
 # Pages Path
 defaults:

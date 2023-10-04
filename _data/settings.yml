@@ -70,6 +70,12 @@ projects__settings:
   projects__description: I get to work with a lot of wonderful people on really interesting stuff. Here is a sampling of a few.
 
 #-------------------------------
+# Research Settings
+research__settings:
+  research__title: Research
+  research__description: 
+  
+#-------------------------------
 # Testimonials Section
 testimonial__title: Experience
 testimonial__description:
