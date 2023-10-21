@@ -2,7 +2,7 @@
 title: Bioeconomy.XYZ
 date: 2020-04-01 08:01:35 +0300
 subtitle: A publication talking about all things biotech and its impact on the world
-image: '/images/bioeconomy/bioeconomy.jpg'
+image: '/images/education/planet.jpg'
 ---
 
 <a href="http://bioeconomy.xyz/" target="_blank">Bioeconomy.XYZ</a> was a project I launched at the start of the pandemic when I left my job in government. I has spent do much time talking to amazing people about their research and their companies, but I felt that there was a need to build a platform that the indiviuals who were making the magic happen could share their voices.
@@ -11,8 +11,8 @@ image: '/images/bioeconomy/bioeconomy.jpg'
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/bioeconomy/titus.jpg" loading="lazy" alt="Project">
-    <img src="/images/bioeconomy/katy.jpg" loading="lazy" alt="Project">
+    <img src="/images/titus/datalicious.jpg" loading="lazy" alt="Project">
+    <img src="/images/people/katy.jpg" loading="lazy" alt="Project">
   </div>
   <em>The editorial team <a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">Titus</a> and <a href="https://www.linkedin.com/in/kathrynehamilton96/" target="_blank">Katy</a></em>
 </div>

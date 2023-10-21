@@ -3,7 +3,7 @@ layout: post
 title:  PhD not required
 description: Education is the greatest provider of opportunity, and we need to stop using it as a filter. If we do, business will flourish more than ever.
 date:   2020-06-12 15:01:35 +0300
-image:  '/images/posts/phdnotreq.jpeg'
+image:  '/images/education/youngstudent.jpeg'
 tags:   [education, PhD]
 ---
 
@@ -16,7 +16,7 @@ I was free in the world and ready for a job. I picked up everything I owned and 
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/posts/books.jpeg" loading="lazy" alt="Car">
+    <img src="/images/education/books.jpeg" loading="lazy" alt="Car">
   </div>
   <em>Photo by <a href="https://unsplash.com/@sharonmccutcheon" target="_blank">Sharon McCutcheon</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
@@ -33,7 +33,7 @@ I’ve spent countless hours around graduates from Stanford Medical School, or H
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/posts/audience.jpeg" loading="lazy" alt="Car">
+    <img src="/images/education/auditorium.jpeg" loading="lazy" alt="Car">
   </div>
   <em>Photo by <a href="https://unsplash.com/@nate_dumlao" target="_blank">Nathan Dumlao</a> on <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>

@@ -2,7 +2,7 @@
 title: U.S. Congress
 date: 2022-03-17 08:01:35 +0300
 subtitle: National Security Commission on Emerging Biotechnology
-image: '/images/projects/defense.jpg'
+image: '/images/natsec/carrier.jpg'
 ---
 
 # Project

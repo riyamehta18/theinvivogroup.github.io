@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: In Vivo Group
-logo: # '/images/ivg-logo-black.jpg' # You can add own logo. For example '/images/logo.png'.
+logo: # '/images//logos/ivg-logo-black.jpg' # You can add own logo. For example '/images/logo.png'.
 description: The In Vivo Group specializes in research and development at the intersection of artificial intelligence, biotechnology, and security.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -30,7 +30,7 @@ menu__settings:
 author:
   author__name: Alexander Titus
   author__bio: Titus is the Founder & CEO of the In Vivo Group. IVG specializes in the research and development of emerging technologies at the intersection of artificial intelligence, biotechnology, and security.
-  author__avatar: '/images/titus.jpg'
+  author__avatar: '/images/titus/titus.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/alexandertitus/"}
@@ -48,7 +48,7 @@ social:
 hero:
   hero__title: We're the In Vivo Group.
   hero__description: We're computer scientists, engineers, biologists, and policy wonks. We believe that science & technology need to be paired with a healthy appreciation for policy & security.<br><br>We specialize in building computational tools to explore the world and building methods to do so responsibly.
-  hero__image: '/images/ivg-logo-black.jpg'
+  hero__image: '/images//logos/ivg-logo-black.jpg'
 
 
 #-------------------------------
@@ -83,37 +83,37 @@ testimonial__description:
 
 testimonial__items:
   - name: "Google Research"
-    image: "/images/Google.png"
+    image: "/images/logos/google.png"
     designation: "Product Strategy & Operations Lead"
     link: "https://research.google/"
     content : "Bringing the best of Research to the rest of Google's products"
 
   - name: "Amazon Science"
-    image: "/images/Amazon.png"
+    image: "/images/logos/amazon.png"
     designation: "Data Scientist"
     link: "https://www.amazon.science/"
     content : "Helping Alexa understand what you're asking for when you need help"
 
   - name: "Tableau Software"
-    image: "/images/Tableau.png"
+    image: "/images/logos/tableau.png"
     designation: "Product Consultant"
     link: "https://www.tableau.com/"
     content : "Bringing business to life with beautiful stories powered by data"
 
   - name: "Department of Defense"
-    image: "/images/DoD.png"
+    image: "/images/logos/dod.png"
     designation: "Principal Director for Biotechnology"
     link: "https://www.defense.gov/About/Biographies/Biography/Article/1845752/dr-alexander-titus/"
     content : "Bringing the best of biotechnology to every aspect of the mission"
 
   - name: "McKinsey & Company"
-    image: "/images/McKinsey.jpg"
+    image: "/images/logos/mckinsey.jpg"
     designation: "Defense & Security Specialist"
     link: "https://www.mckinsey.com/industries/public-and-social-sector/how-we-help-clients/defense-and-security"
     content : "Helping our public servants build strategies that last"
 
   - name: "In-Q-Tel"
-    image: "/images/IQT.jpg"
+    image: "/images/logos/iqt.jpg"
     designation: "Data Scientist"
     link: "https://www.iqt.org/labs/"
     content : "Bringing the innovation of industry to the mission of government"
@@ -129,14 +129,14 @@ blog__settings:
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Wilderness'
-      url: '/images/VA-Canoeing.jpg'
-    - alt: 'Hobby'
-      url: '/images/Cancun-SCUBA.jpg'
-    - alt: 'Adventure'
-      url: '/images/Dalton-Hills.jpg'
+    - alt: 'Biotechnology'
+      url: '/images/biology/dna.jpg'
+    - alt: 'Ideas'
+      url: '/images/general/lightbulb.jpg'
+    - alt: 'Artificial Intelligence'
+      url: '/images/ai/ai.jpg'
     - alt: 'Notes'
-      url: '/images/Grand-Canyon.jpg'
+      url: '/images/natsec/carrier.jpg'
 
 
 #-------------------------------

@@ -2,7 +2,7 @@
 title: Schmidt Futures
 date: 2022-01-02 08:01:35 +0300
 subtitle: Task Force on Synthetic Biology and the Bioeconomy
-image: '/images/projects/Schmidt-Futures.jpg'
+image: '/images/biology/dna.jpg'
 ---
 
 # Project
