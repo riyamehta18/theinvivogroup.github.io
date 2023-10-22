@@ -1,5 +1,5 @@
 ---
-title: Startups & Technology Commercialization
+title: Startups
 date: 2023-10-01 08:01:35 +0300
 subtitle: Making science and technology a reality
 image: '/images/general/startup.jpg'
