@@ -1,7 +1,7 @@
 ---
-title: Generative Biology
+title: Startups & Technology Commercialization
 date: 2023-10-01 08:01:35 +0300
-subtitle: The power of generative AI in the life sciences
+subtitle: Making science and technology a reality
 image: '/images/general/startup.jpg'
 ---
 
