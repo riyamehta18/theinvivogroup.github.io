@@ -1,8 +1,10 @@
 ---
-title: U.S. Congress
-date: 2022-03-17 08:01:35 +0300
-subtitle: National Security Commission on Emerging Biotechnology
-image: '/images/natsec/carrier.jpg'
+layout: post
+title:  National Security Commission on Emerging Biotechnology
+description: Advising the U.S. Government on policy at the intersection of biotechnology + national security. 
+date:   2022-03-17 08:01:35 +0300
+image:  '/images/natsec/carrier.jpg'
+tags:   [biotechnology, policy]
 ---
 
 # Project

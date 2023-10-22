@@ -4,7 +4,7 @@ title:  PhD not required
 description: Education is the greatest provider of opportunity, and we need to stop using it as a filter. If we do, business will flourish more than ever.
 date:   2020-06-12 15:01:35 +0300
 image:  '/images/education/youngstudent.jpeg'
-tags:   [education, phd]
+tags:   [education, graduate]
 ---
 
 There’s nothing inherently impressive about spending 60–100 hours/week working for over half a decade for almost no pay. In fact, if you think about it out of context, it's outright crazy to do that — but that’s usually what it takes to get a PhD. Now, those of us who already have a grad degree would like to think that it was the only way to end up where we are in our careers, and the businesses of the bioeconomy are better off with more advanced degrees, but the reality is that unless you want a very specific set of jobs, a PhD is not required. In fact, in many cases, a PhD works against you because there’s a stereotype that we come with big egos. I’m not going to lie, it's pretty true.
