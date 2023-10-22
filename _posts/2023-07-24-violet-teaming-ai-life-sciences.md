@@ -4,7 +4,7 @@ title:  Violet Teaming AI in the Life Sciences
 description: Red teaming probes vulnerabilities and blue teaming creates defenses, violet teaming synthesizes both to build secure systems serving society. 
 date:   2023-07-24 15:01:35 +0300
 image:  '/images/general/lightbulb.jpg'
-tags:   [Artificial Intelligence, Violet Teaming, Security]
+tags:   [artificial intelligence, violet teaming, security]
 ---
 
 # Abstract
