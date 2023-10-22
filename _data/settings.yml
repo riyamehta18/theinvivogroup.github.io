@@ -67,8 +67,8 @@ team__settings:
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Projects
-  projects__description: I get to work with a lot of wonderful people on really interesting stuff. Here is a sampling of a few.
+  projects__title: What we're working on
+  projects__description: We're focused on tackling questions in Artificial Intelligence, Biotechnology, Life Sciences, and National Security.
 
 #-------------------------------
 # Research Settings
@@ -121,8 +121,8 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Some published thoughts
-  blog__description: I write. I think about science, policy, interesting approaches to careers, and how it's best when all these come together.
+  blog__title: What we're thinking about
+  blog__description: We're passionate about sharing our work with the world, as well as our thoughts and commentary on current events in science, technology, and policy. 
 
 
 #-------------------------------
