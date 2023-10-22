@@ -1,6 +1,6 @@
 ---
 title: Bioeconomy.XYZ
-date: 2020-04-01 08:01:35 +0300
+date: 2023-10-01 08:00:35 +0300
 subtitle: A publication talking about all things biotech and its impact on the world
 image: '/images/education/planet.jpg'
 ---
