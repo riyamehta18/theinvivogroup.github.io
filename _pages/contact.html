@@ -11,8 +11,10 @@ image: '/images/contact.jpg'
       <p class="contact-description">{{site.data.settings.contact.description}}</p>
     {% endif %}
   </div>
-  <form class="form" action="{% if site.data.settings.contact.email %}https://us21.list-manage.com/contact-form?u={{site.data.settings.contact.email}}&form_id=c7b3b18d4edc05a1def7566dd31db12f{% else %}#{% endif %}" method="POST">
-    
+  <form class="form" action="{% if site.data.settings.contact.email %}https://theinvivogroup.us21.list-manage.com/subscribe/post{% else %}#{% endif %}" method="POST">
+    <input type="hidden" name="u" value="{{site.data.settings.contact.email}}">
+    <input type="hidden" name="id" value="b55cb36e44">
+
     <div class="form__group">
       <label class="form__label screen-reader-text" for="form-name">Your Name</label>
       <input class="form__input" id="form-name" type="text" name="name" placeholder="Name" required>
