@@ -166,7 +166,7 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: # Add your form_id
+  email: 26a8198730c271b649dedfedb # Add your form_id
   description: If you'd like to chat, shoot me a note. Or find me on <a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/1AlexanderTitus" target="_blank">Twitter</a>
 
 # NOTE
