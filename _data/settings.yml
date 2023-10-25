@@ -18,12 +18,13 @@ menu__settings:
       url: 'https://scholar.google.com/citations?user=e4hx110AAAAJ&hl=en'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Contact'
+      url: '/contact/' 
     # - title: 'Team'
     #   url: '/team/'      
     # - title: 'About'
     #  url: '/about/'
-    # - title: 'Contact'
-    #  url: '/contact/'
+
 
 #-------------------------------
 # Author Settings
@@ -150,22 +151,19 @@ footer_menu__settings:
       url: 'https://scholar.google.com/citations?user=e4hx110AAAAJ&hl=en'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Contact'
+      url: '/contact/'
     # - title: 'Team'
     #   url: '/team/'      
     # - title: 'About'
     #  url: '/about/'
-    # - title: 'Contact'
-    #  url: '/contact/'
 
 
 #-------------------------------
 # Contact Settings
 contact:
   email: xwkdynyn # Add your form_id
-  description: If you'd like to chat, shoot Titus a note through the contact form below, or find him on **<a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">LinkedIn</a>**.
-
-# NOTE
-# Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+  description: If you'd like to chat, shoot Titus a note through the contact form below, or find him on <a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">LinkedIn</a>.
 
 
 #-------------------------------
