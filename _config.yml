@@ -67,6 +67,10 @@ defaults:
       type: "research"
     values:
       layout: "project"
+  - scope:
+      path: "" 
+    values:
+      new_tab: true
 
 sass:
   sass_dir: _sass
