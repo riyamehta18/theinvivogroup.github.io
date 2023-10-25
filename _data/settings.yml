@@ -16,6 +16,7 @@ menu__settings:
       url: '/projects/'
     - title: 'Publications'
       url: 'https://scholar.google.com/citations?user=e4hx110AAAAJ&hl=en'
+      new_tab: true
     - title: 'Blog'
       url: '/blog/'
     - title: 'Contact'
