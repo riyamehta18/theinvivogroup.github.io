@@ -14,8 +14,6 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Research'
-      url: '/tags/?tag=research'
     - title: 'Publications'
       url: 'https://scholar.google.com/citations?user=e4hx110AAAAJ&hl=en'
     - title: 'Blog'
@@ -31,13 +29,12 @@ menu__settings:
 # Author Settings
 author:
   author__name: Alexander Titus
-  author__bio: Titus is the Founder & Principal Investigator at the In Vivo Group. IVG specializes in the research and development of emerging technologies at the intersection of artificial intelligence, biotechnology, and security.
+  author__bio: Titus is the Founder & Principal Investigator of the In Vivo Group. IVG specializes in the research and development of emerging technologies at the intersection of artificial intelligence, biotechnology, and security.
   author__avatar: '/images/titus/titus.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/alexandertitus/"}
 - {icon: "ion-logo-github", link: "https://github.com/In-Vivo-Group"}
-# - {icon: "ion-mail", link: "mailto:contact@theinvivogroup.com"}
 # - {icon: "ion-logo-instagram", link: "https://www.instagram.com"}
 # - {icon: "ion-logo-twitter", link: "https://twitter.com"}
 # - {icon: "ion-logo-facebook", link: "https://www.facebook.com"}
@@ -149,8 +146,6 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Research'
-      url: '/tags/?tag=research'
     - title: 'Publications'
       url: 'https://scholar.google.com/citations?user=e4hx110AAAAJ&hl=en'
     - title: 'Blog'
@@ -166,8 +161,8 @@ footer_menu__settings:
 #-------------------------------
 # Contact Settings
 contact:
-  email: # Add your form_id
-  description: If you'd like to chat, shoot me a note. Or find me on <a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">LinkedIn</a> and <a href="https://twitter.com/1AlexanderTitus" target="_blank">Twitter</a>
+  email: xwkdynyn # Add your form_id
+  description: If you'd like to chat, shoot Titus a note through the contact form below, or find him on **<a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">LinkedIn</a>**.
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
