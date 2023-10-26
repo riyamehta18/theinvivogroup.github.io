@@ -16,7 +16,7 @@ If you have ideas to share or would like to contribute to the work of the Commis
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/logos/nsceb.jpeg" loading="lazy" alt="Car">
+    <img src="/images/logos/nsceb.jpg" loading="lazy" alt="Car">
   </div>
   <em>Advising the U.S. Government on policy at the intersection of biotechnology + national security.</em>
 </div>
