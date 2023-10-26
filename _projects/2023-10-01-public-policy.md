@@ -5,14 +5,12 @@ subtitle: Bringing the best of science and technology to national security and p
 image: '/images/natsec/capital.jpg'
 ---
 
-More info coming soon
-
-# National Security Commission on Emerging Biotechnology
+# National Security Commission on Emerging Biotechnology (NSCEB)
 Congress charged the National Security Commission on Emerging Biotechnology with conducting a thorough review of how advancements in emerging biotechnology and related technologies will shape current and future activities of the Department of Defense.
 
 The Commission is a legislative branch advisory entity and is expected to provide an interim report to the President and the Armed Services Committees in December 2023 and submit a final, unclassified report in December 2024, including recommendations for action by Congress and the federal government.
 
-If you have ideas to share or would like to contribute to the work of the Commission, please email us at ideas@biotech.senate.gov or check out the website at [biotech.senate.gov/](https://www.biotech.senate.gov/).
+If you have ideas to share or would like to contribute to the work of the Commission, please email us at ideas@biotech.senate.gov or check out the website at [biotech.senate.gov/](https://www.biotech.senate.gov/){:target="_blank"}.
 
 <div class="gallery-box">
   <div class="gallery">
