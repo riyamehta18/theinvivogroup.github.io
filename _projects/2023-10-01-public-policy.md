@@ -10,13 +10,13 @@ Congress charged the National Security Commission on Emerging Biotechnology with
 
 The Commission is a legislative branch advisory entity and is expected to provide an interim report to the President and the Armed Services Committees in December 2023 and submit a final, unclassified report in December 2024, including recommendations for action by Congress and the federal government.
 
-If you have ideas to share or would like to contribute to the work of the Commission, please email ideas@biotech.senate.gov or check out the website at [biotech.senate.gov/](https://www.biotech.senate.gov/){:target="_blank"}.
+If you have ideas to share or would like to contribute to the work of the Commission, please email ideas@biotech.senate.gov or check out the website at [biotech.senate.gov/](https://www.biotech.senate.gov){:target="_blank"}.
 
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/logos/nsceb.jpg" loading="lazy" alt="Car">
   </div>
-  <em>Advising the U.S. Government on policy at the intersection of biotechnology + national security.</em>
+  <em>Advising the U.S. Government on policy at the intersection of biotechnology + national security</em>
 </div>
 
 # Schmidt Futures Task Force on Synthetic Biology and the Bioeconomy
@@ -43,5 +43,3 @@ The report aims to spur federal action that will build a better world by:
 - Contributing significantly to the goal of creating a net-zero carbon economy
  
 Hodgson, A., Alper, J., Maxon, M.E. 2022. The U.S. Bioeconomy: Charting a Course for a Resilient and Competitive Future. New York, New York: Schmidt Futures. https://doi.org/10.55879/d2hrs7zwc
-
- The report may be downloaded at the top of this page.
