@@ -19,7 +19,7 @@ menu__settings:
       new_tab: true
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
+    - title: 'Work with us'
       url: '/contact/' 
     # - title: 'Team'
     #   url: '/team/'      
@@ -152,7 +152,7 @@ footer_menu__settings:
       url: 'https://scholar.google.com/citations?user=e4hx110AAAAJ&hl=en'
     - title: 'Blog'
       url: '/blog/'
-    - title: 'Contact'
+    - title: 'Work with us'
       url: '/contact/'
     # - title: 'Team'
     #   url: '/team/'      
