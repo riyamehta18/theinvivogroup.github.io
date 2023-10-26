@@ -11,7 +11,7 @@ image: '/images/education/planet.jpg'
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/titus/datalicious.jpg" loading="lazy" alt="Project">
+    <img src="/images/titus/titus.jpg" loading="lazy" alt="Project">
     <img src="/images/people/katy.jpg" loading="lazy" alt="Project">
   </div>
   <em>The editorial team <a href="https://www.linkedin.com/in/alexandertitus/" target="_blank">Titus</a> and <a href="https://www.linkedin.com/in/kathrynehamilton96/" target="_blank">Katy</a></em>
