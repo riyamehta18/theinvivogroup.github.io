@@ -42,4 +42,4 @@ The report aims to spur federal action that will build a better world by:
 - Improving the nation’s health and the environment
 - Contributing significantly to the goal of creating a net-zero carbon economy
  
-Hodgson, A., Alper, J., Maxon, M.E. 2022. The U.S. Bioeconomy: Charting a Course for a Resilient and Competitive Future. New York, New York: Schmidt Futures. https://doi.org/10.55879/d2hrs7zwc
+Hodgson, A., Alper, J., Maxon, M.E. 2022. The U.S. Bioeconomy: Charting a Course for a Resilient and Competitive Future. New York, New York: Schmidt Futures. [https://doi.org/10.55879/d2hrs7zwc](https://doi.org/10.55879/d2hrs7zwc){:target="_blank"}.
