@@ -84,19 +84,19 @@ testimonial__description:
 
 testimonial__items:
   - name: "Information Sciences Institute"
-    image: "/images/logos/isi.png"
+    image: "/images/logos/isi.jpg"
     designation: "Principal Scientist"
     link: "https://www.isi.edu/"
     content : "AI, Biotech, & Security"
 
   - name: "Viterbi School of Engineering"
-    image: "/images/logos/viterbi.png"
+    image: "/images/logos/viterbi.jpg"
     designation: "Principal Investigator"
     link: "https://viterbischool.usc.edu/"
     content : "Research, Build, Scale"
 
   - name: "University of Southern California"
-    image: "/images/logos/usc.png"
+    image: "/images/logos/usc.jpg"
     designation: "Research Lead"
     link: "https://usc.edu/"
     content : "Scientist, Engineers, & Policy Wonks"
