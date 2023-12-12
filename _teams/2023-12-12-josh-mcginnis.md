@@ -1,6 +1,6 @@
 ---
 title: Josh McGinnis
-date: 2000-01-01 08:01:35 +0300
+date: 2023-12-12 08:01:35 +0300
 subtitle: AI, Fungi, & Biological Computing
 image: '/images/josh/josh.jpg'
 ---
