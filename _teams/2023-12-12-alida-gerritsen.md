@@ -1,7 +1,8 @@
 ---
 title: Alida Gerritsen, PhD
-date: 
+date: 2023-12-12 08:01:35 +0300
 subtitle: Data Scientist, Computational Biologist, Strength Advocate
+image: '/images/people/alida.png'
 ---
 
 I think I've worked on every animal that's not a human, ranging from microbial prokaryotes to extinct mammals. I think that if I've made it this far while avoiding the human world then I can probably keep that going. My entire career has hinged on cultivating expertise in multiple fields ranging from bioinformatics, computer science, data science, statistics, and molecular biology, while remaining open-minded about venturing into novel spaces of knowledge. I believe in a holistic approach to science: proficiency in experimental design, proper statistical analysis, hypothesis validation, and the integration of diverse analytical sources encompassing proteomics, transcriptomics, morphometrics, and (particularly relevant to modern biotech) AI-powered analysis.
