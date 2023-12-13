@@ -1,7 +1,7 @@
 ---
 title: Karan Jaisingh
 date: 2023-12-12 18:43:35 +0300
-subtitle: AI, Fungi, & Biological Computing
+subtitle: AI Engineer & Software Developer
 image: '/images/karan/karan.jpeg'
 ---
 
