@@ -12,6 +12,8 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Team'
+      url: '/team/' 
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
@@ -21,8 +23,6 @@ menu__settings:
       url: '/blog/'
     - title: 'Work with us'
       url: '/contact/' 
-    # - title: 'Team'
-    #   url: '/team/'      
     # - title: 'About'
     #  url: '/about/'
 
@@ -128,6 +128,8 @@ footer_menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Team'
+      url: '/team/'  
     - title: 'Projects'
       url: '/projects/'
     - title: 'Publications'
@@ -135,9 +137,7 @@ footer_menu__settings:
     - title: 'Blog'
       url: '/blog/'
     - title: 'Work with us'
-      url: '/contact/'
-    # - title: 'Team'
-    #   url: '/team/'      
+      url: '/contact/'    
     # - title: 'About'
     #  url: '/about/'
 
