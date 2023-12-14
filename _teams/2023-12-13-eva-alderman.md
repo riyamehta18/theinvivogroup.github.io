@@ -1,8 +1,8 @@
 ---
 title: Eva Alderman
-date: 2023-12-13 07:43pm
+date: 2023-12-14 08:05
 subtitle: CAR-T Scientist, AI Student, Globetrotter
-image: '_teams/Eva_chair.JPG'
+image: '/images/people/eva/Eva_chair.JPG'
 ---
 
 Hello everyone! My name is Eva Alderman and my career thus far began in the lab developing some of the first ever CAR-T therapies, and has since woven through various “techbio” companies working on both wet & dry lab products. I got bitten by the startup bug early and have loved working on projects with the potential to turn the ‘previously impossible’ into the ‘suddenly possible’. This interest has motivated me to join the In Vivo Group!
