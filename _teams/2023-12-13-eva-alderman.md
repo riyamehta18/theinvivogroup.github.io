@@ -13,7 +13,7 @@ AI systems are incredibly exciting, yet many advances have lacked tangible, real
 
 Discovering the secrets of life, and using them to make the world a better place.
 
-My current focus is upskilling in the computational sciences, as a complement to my lab and product background. In particular, I’d love to discover the ways in which computers are smarter than us! And maybe nature, too.
+My current focus is upskilling in the computational sciences, as a complement to my lab and product background. In particular, I’d love to discover how computers are smarter than us! And maybe nature, too.
 
 In the background, I actively consult in the startup and venture capital space, both on product strategy and specific investment opportunities.
 
