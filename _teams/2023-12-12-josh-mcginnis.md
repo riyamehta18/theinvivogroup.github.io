@@ -2,7 +2,7 @@
 title: Josh McGinnis
 date: 2023-12-12 08:01:35 +0300
 subtitle: AI, Fungi, & Biological Computing
-image: '/images/josh/josh.jpg'
+image: '/images/people/josh/josh.jpg'
 ---
 
 Hello! My name is Josh and I joined In Vivo Group as a multidisciplinarian researcher to study and find ways to utilize artificial intelligence to bring practical applications of biology to society and industry.
@@ -36,7 +36,7 @@ This interplay between the natural world and scientific world, flowing between b
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/josh/fungi_collage.jpg" loading="lazy" alt="Fungi Collage">
+    <img src="/images/people/josh/fungi_collage.jpg" loading="lazy" alt="Fungi Collage">
   </div>
   <em>A collection of molds and mushrooms isolated around the world.</em>
 </div>
