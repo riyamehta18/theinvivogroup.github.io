@@ -5,7 +5,7 @@ subtitle: AI, Biotech, & National Security
 image: '/images/titus/dmc.jpg'
 ---
 
-Hi there. My name is Titus and I'm the ring leader of this endeavor to study how artificial intelligence is changing the way we think about the life sciences, and how those changes may or may not cause security concerns. I get to work with amazing people every day in a variety of different settings, but the one thing that holds true across the board is that everyone is passionate about rigorous science and public benefit of their work. 
+Hi there. I'm Titus, the ring leader of this endeavor to study how artificial intelligence is changing the way we think about the life sciences, and how those changes may or may not cause security concerns. I get to work with amazing people every day in a variety of different settings, but the one thing that holds true across the board is that everyone is passionate about rigorous science and public benefit of their work. 
 
 I have an eclectic background spanning industry, government, and academia. I also have a healthy amount of fun thrown into the mix, because why go through life too serious, eh?
 
