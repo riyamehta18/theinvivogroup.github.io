@@ -2,7 +2,7 @@
 title: James Wang
 date: 2000-01-01 08:01:35 +0300
 subtitle: AI, Healthcare, Policy
-image: '/images/james/dmc.jpg'
+image: '/images/JamesWang.jpg'
 ---
 
 Hi! I'm James — a researcher at IVG focused on the implementation of AI in clinical settings. I'm deeply fascinated by the intersection of technology and healthcare. I joined IVG as I'm bullish on the violet teaming ethos of our approach to new technologies — incorporating a comprehensive range of stakeholders within settings like a hospital or medical clinic is the only way to convert research into tangible value.
@@ -18,7 +18,7 @@ I love what it means to be a student — to be a beginner, to look at things fro
 
 # What I was up to in the past?
 
-I pitched and led an internal venture at Zappos when I was 16 (a formative experience in breaking into tech), worked on growth at a Y Combinator and AARP-backed startup (Mighty Health) and did a short stint at SAP in marketing ops. 
+I pitched and led an internal venture at Zappos when I was 16 (a deeply formative experience), worked on growth at a Y Combinator and AARP-backed startup (Mighty Health) and did a short stint at SAP in marketing ops. 
 
 I actually grew up wanting to become a doctor because it allowed me to do things 1) work with people I admired and 2) have some tangible impact in my work. In junior year of high school, I got my first introduction to a startup — Zappos. Since then, I've been very fortunate to work with some really incredible people to do some really incredible things. 
 
@@ -27,7 +27,7 @@ I'm fanatical about great music & great films & great art. My favorite artist is
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/adventures/concert.jpg" loading="lazy" alt="Car">
+    <img src="/images/adventures/concertgebouw.jpg" loading="lazy" alt="Car">
   </div>
-  <em>At the Concertgebouw in Amsterdam.</em>
+  <em>At the Het Concertgebouw in Amsterdam.</em>
 </div>
