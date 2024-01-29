@@ -2,7 +2,7 @@
 title: James Wang
 date: 2000-01-01 08:01:35 +0300
 subtitle: AI, Healthcare, Policy
-image: "/images/JamesWangProfile.jpg"
+image: "/images/JamesWangProfileIVG.jpg"
 ---
 
 Hi! I'm James — a researcher at IVG focused on the implementation of AI in clinical settings. I'm deeply fascinated by the intersection of technology and healthcare. I joined IVG as I'm bullish on the violet teaming ethos of our approach to new technologies — incorporating a comprehensive range of stakeholders within settings like a hospital or medical clinic is the only way to convert research into tangible value.
